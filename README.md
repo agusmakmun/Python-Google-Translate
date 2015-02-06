@@ -16,9 +16,9 @@ Tanks to  : Kamyar Ghasemlou ( for adding tab file ).
 
 <strong>Project Python Google Translate</strong> - Program ini merupakan program Translate Bahasa yang memanfaatkan Layanan Google Translate yang diambil fungsi translatenya kemudian di terapkan pada Python Programming.
 
-<strong>Program ini ada 2 file berupa:</strong>
-<b>1.</b> Translate.py ( merupakan programnya )
-<b>2.</b> id_country.txt ( merupakan database ID Negara dan Nama Negara )
+<strong>Program ini ada 2 file berupa:</strong><br />
+<b>1.</b> Translate.py ( merupakan programnya )<br />
+<b>2.</b> id_country.txt ( merupakan database ID Negara dan Nama Negara )<br />
 
 Untuk File lengkapnya bisa langsung bisa dilihat di github:
 <b><a href="https://github.com/agusmakmun/Python-Google-Translate/" title="Python Google Translate" target="_blank">https://github.com/agusmakmun/Python-Google-Translate/</a></b>

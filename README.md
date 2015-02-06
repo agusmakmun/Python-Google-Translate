@@ -89,7 +89,7 @@ Dari situ kita sudah mendapatkan data dengan <code>ID</code> dan <code>Name Coun
 
 Itu sebabnya mengapa kita membuat Database baru yang bernama <code>id_country.txt</code>, sebenarnya tanpa ini kita juga sudah bisa memanfaatkan Python Google Translate ini. Namun untuk mempermudah user dengan adanya tampilan data dari <code>ID</code> dan <code>Name Country</code>, sehingga tidak bingung ketika ingin memasukkan <code>ID</code> pada bahasa yang mereka tidak kenal.
 
-Didalam code>id_country.txt</code> sendiri jika memang datanya seperti pada <code>zh -CNChinese</code> dan <code>zh -TWChinese</code> dengan menggunakan spasi, seperti yang ada pada data diatas, kami juga telah mengutiknya dengan membuatkan program seperti ini:
+Didalam <code>id_country.txt</code> sendiri jika memang datanya seperti pada <code>zh -CNChinese</code> dan <code>zh -TWChinese</code> dengan menggunakan spasi, seperti yang ada pada data diatas, kami juga telah mengutiknya dengan membuatkan program seperti ini:
 
 
 <pre>

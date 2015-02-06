@@ -147,6 +147,7 @@ if panjang%2: #if it is odd
 </pre>
 
 Yang pada hasil endingnya adalah menjadi seperti ini:
+Maaf untuk lebih bagusnya seperti ini: https://gist.github.com/agusmakmun/40ac361269b2b9703e34
 <pre>
 af Afrikaans 	ko Korean 	ht Haitian
 sq Albanian 	lo Lao  	ha Hausa
@@ -166,6 +167,5 @@ hr Croatian 	ne Nepali 	km Khmer
 cs Czech 	no Norwegian 	ko Korean
 ....etc
 </pre>
-
 Naah demikianlah dokumentasi singkat dari proses pembuatan <strong><em>Project Python Google Translate</em></strong>, jika dirasakan orang yang baru mengenal python seperti saya, rasanya sangat puas apabila sukses membuat program sesuai dengan apa yang kita inginkan.. :D 
 

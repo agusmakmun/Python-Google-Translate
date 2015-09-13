@@ -3,7 +3,7 @@ Python Google Translate by python.web.id
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agusmakmun/Python-Mp3-Player?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<img src="http://python.web.id/wp-content/uploads/2015/02/Project-Google-Translate-1024x686.png" title="Project Python Google Translate" alt="Project Python Google Translate"/>
+<img src="http://python.web.id/media/covers/Project_Python_Google_Translate.png" title="Project Python Google Translate" alt="Project Python Google Translate"/>
 
 <pre>
 /*******************************
